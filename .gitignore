@@ -1,4 +1,18 @@
+# Environnements virtuels
 venv/
+
+# Secrets
 .env
+
+# Fichiers Python inutiles
 __pycache__/
+*.pyc
+
+# Dossiers Jupyter
 .ipynb_checkpoints/
+
+# Fichiers SQL temporaires
+*.session.sql
+
+# VSCode (optionnel)
+.vscode/
