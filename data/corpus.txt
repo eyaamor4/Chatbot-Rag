@@ -1,0 +1,2064 @@
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'appelle je sais pas si j'appelle au bon endroit e
+<03> hotesse+client
+     h: je vous écoute
+     c: c'est pour
+<04> client
+     c: e c'est pour savoir si la fac pendant l'été e a des professeurs ou des des gens qui font des stages de de perfectionnement en anglais et en espagnol
+<05> hotesse
+     h: e ce serait pour vous vous souhaiteriez
+<06> hotesse+client
+     h: non
+     c: non non c'est pas pour moi
+<07> client
+     c: ce serait pour ma fille
+<08> hotesse+client
+     h: oui
+     c: mais bon elle est
+<09> client
+     c: en seconde et
+<10> hotesse+client
+     h: et elle souhaiterais se perfectionner
+     c: bon elle va passer en première mais
+<11> hotesse
+     h: en anglais ou en espagnol pendant l'été
+<12> client
+     c: ouais c'est çà
+<13> hotesse
+     h: oui alors e la fac de e de lettre et de langues se trouve à Lorient donc il faudrait plutôt  voir avec Lorient pour e savoir si ils organisent des stages mais en tout cas fac est fermée du 23 juillet au 23 août
+<14> client
+     c: ouais par contre vous pas me m'orienter vers e
+<15> hotesse+client
+     h: vers Lorient
+     c: e
+<16> client
+     c: un organisme sur Vannes qui qui s'occupe de ce genre de chose
+<17> hotesse
+     h: e non à priori non je vois pas e --- e(lle) elle est e vous dîtes elle est en seconde
+<18> client
+     c: ouais et e bon elle va passer en première mais ils faut ils faut ils faut qu'elle renforce sérieusement son anglais et
+<19> hotesse+client
+     h: ben écoutez vous avez
+     c: son espagnol
+<20> hotesse
+     h: un organisme qui s'appelle e "English Connection" il me semble
+<21> client
+     c: ouais
+<22> hotesse
+     h: e du coté de la place de la république là e sinon e je sais que la chambre de commerce c'est le e comment e organise éventuellement des des stages aussi
+<23> client
+     c: ouais
+<24> hotesse
+     h: e mais bon autrement je peux pas vraiment vous e
+<25> client
+     c: et "English Connection" c'est e une entrepri(se) c'est une association ou une entreprise privée
+<26> hotesse
+     h: je ne sais pas oh vous allez trouver ça dans le dans l'annuaire hein
+<27> client
+     c: ouais d'accord
+<28> hotesse
+     h: je sais pas
+<29> client
+     c: c'est place de
+<30> hotesse
+     h: c'est place de la république c'est c'est tout près de la poste
+<31> client
+     c: à d'accord je vous remercie
+<32> hotesse+client
+     h: oui
+     c: madame
+<33> hotesse
+     h: je vous en prie
+<34> hotesse+client
+     h: au revoir
+     c: bonne journée
+<35> client
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour ce serait pour savoir comment obtenir e un dossier de candidature pour le D E S S e droit des affaires droit des P M E
+<03> hotesse
+     h: e oui je vais vous passer le secrétariat
+<04> client
+     c: d'accord merci
+<05> hotesse
+     h: [pi]
+<06> hotesse+hotesse2
+     h: Prenom oui
+     h: allo oui
+<07> hotesse
+     h: un dossier e D E S S droit des P M E
+<08> hotesse2
+     h: d'accord
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'ai appelé ce matin pour avoir e monsieur Nom vous m'avez dit de rappeler
+<03> hotesse
+     h: oui vous ê(tes) vous êtes madame c'est pour une une connexion e Internet peut-être pour votre e
+<04> client
+     c: voilà rappeler la date donc pour que c'était pour confirmer ma préinscription
+<05> hotesse
+     h: d'accord je vais vous passer monsieur Nom hein
+<06> client
+     c: d'accord
+<07> hotesse
+     h: t'as compris de quoi il s'agit Prénom hein j'ai pas dit Prénom2 hein j'ai dit Prénom hein
+<08> hotesse2
+     h: allo
+<09> hotesse
+     h: une une préinscription
+<10> hotesse+hotesse2
+     h: Prénom hein
+     h: oui cette après-midi quoi
+<11> hotesse2
+     h: ouais ouais Prénom3 ouais
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame monsieur Nom Siemens j'aurais voulu parler à Monsieur Nom2 s'il était là
+<03> hotesse
+     h: oui j'ai pas bien entendu votre nom monsieur
+<04> client
+     c: monsieur Nom Siemens
+<05> hotesse
+     h: monsieur Nom Société Siemens
+<06> hotesse+client
+     h: c'est ça
+     c: oui
+<07> client
+     c: de [pi] oui
+<08> hotesse
+     h: d'accord je vais voir
+<09> client
+     c: merci
+<10> hotesse2
+     h: allo
+<11> hotesse
+     h: oui j'ai en ligne monsieur Nom de la société Siemens
+<12> hotesse2
+     h: d'accord
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour est-ce que je pourrais avoir monsieur Nom s'il vous plaît
+<03> hotesse
+     h: c'est lui-même
+<04> client
+     c: ah bonjour j'essayais de vous appeler e j'ai eu votre numéro de téléphone à l'accueil ce matin
+<05> hotesse
+     h: où ça
+<06> client
+     c: à l'accueil
+<07> hotesse+client
+     h: oui
+     c: donc voilà et c'est parce que moi je e c'est pour une préinscription ma fille a été e c'est c'est madame Nom2 qui l'a e inscrite il y a deux jours
+<08> hotesse+client
+     h: ouais e
+     c: en première année
+<09> client
+     c: et e elle m'a donné un numéro de code
+<10> hotesse
+     h: ouais
+<11> client
+     c: et quand je fais ce numéro de code on me dit code invalide
+<12> hotesse
+     h: e attendez attendez parce que là je suis pas à mon bureau vous pouvez me rapeler au 0 2 97
+<13> client
+     c: e oui 0 1 26 0 4
+<14> hotesse
+     h: 0 1 26 0 4 ouais
+<15> client
+     c: et dans combien de temps
+<16> hotesse
+     h: e ben dans deux minutes trois minutes là
+<17> client
+     c: deux minutes trois minutes
+<18> hotesse+client
+     h: ouais
+     c: ok
+<19> hotesse
+     h: allez au revoir madame
+<20> client
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour excusez moi de vous déranger est ce que c'est possible d'avoir Prénom Nom s'il vous plaît
+<03> hotesse
+     h: Prénom Nom elle travaille où c'est
+<04> client
+     c: ah ben écoutez j'ai j'ai e je sais pas j'ai simplement le numéro de téléphone e sur lequel je vous ai appelé
+<05> hotesse
+     h: hum
+<06> client
+     c: e c'est marqué e boulot donc je suppose que je pensais que c'était son bureau
+<07> hotesse
+     h: vous pouvez me dire le bureau ou alors e
+<08> hotesse+client
+     h: la pièce
+     c: non
+<09> client
+     c: je e je suis désolée j'ai simplement le 0 2 97 0 1 27 25
+<10> hotesse
+     h: 0 2 97 0 1
+<11> client
+     c: 27 25
+<12> hotesse
+     h: là je vais chercher je sais qu'il y est pas
+<13> client
+     c: merci
+
+
+<01> hotesse2
+     h: I U P sciences de gestion bonjour
+<02> hotesse
+     h: e Prénom Nom
+<03> hotesse+hotesse2
+     h: c'est Prénom2 il
+     h: oui oui
+<04> hotesse
+     h: paraît que tu as des sujets d'examen
+<05> hotesse2
+     h: oui
+<06> hotesse
+     h: qui urgent
+<07> hotesse2
+     h: e ben oui
+<08> hotesse
+     h: c'est pour quand
+<09> hotesse2
+     h: e ben écoute e pour demain après-midi j'en ai un
+<10> hotesse
+     h: demain après-midi
+<11> hotesse+hotesse2
+     h: t'en as un
+     h: oui
+<12> hotesse
+     h: e demain
+<13> hotesse2
+     h: e tu veux qu?on fasse ça demain matin
+<14> hotesse
+     h: e c'est combien de pages e
+<15> hotesse2
+     h: e alors attends tu es e après il y en a un autre pour lundi
+<16> hotesse
+     h: ah il y a un autre pour lundi
+<17> hotesse2
+     h: oui
+<18> hotesse+hotesse2
+     h: c'est quoi
+     h: bon
+<19> hotesse
+     h: c'est qu'est-ce qu'il y a
+<20> hotesse+hotesse2
+     h: c'est recto verso à agrafer ou il y a des
+     h: e c'est # et il y a
+<21> hotesse2
+     h: il y a des agrafages et des recto verso et des e des dossiers des petits dossiers de cinq ou six pages à quatre-vingt-dix exemplaires là par exemple
+<22> hotesse
+     h: e ouais mais cinq six pages c'est agrafé quoi
+<23> hotesse2
+     h: oui oui oui oui oui
+<24> hotesse
+     h: ouais ouais ouais c'est pas des A3 e des e des A4 à transformer
+<25> hotesse+hotesse2
+     h: en A3 e ou et cetera # e
+     h: ah non non non non non non non non non non # non non
+<26> hotesse
+     h: tu veux qu'on voie [pronounce=voye] ça demain matin
+<27> hotesse2
+     h: ah ben écoute demain matin Prénom2 si tu veux
+<28> hotesse
+     h: c'est pour demain après-midi
+<29> hotesse2
+     h: oui
+<30> hotesse
+     h: il est quelle heure là # deux heures e deux heures
+<31> hotesse2
+     h: nous on peut faire ça demain matin hein
+<32> hotesse
+     h: tu as les sujets là avec toi
+<33> hotesse2
+     h: oui
+<34> hotesse
+     h: ouais demain matin eh je vais aller au courrier le matin j'ai # j'ai très peu de temps
+<35> hotesse2
+     h: comme tu veux
+<36> hotesse+hotesse2
+     h: faut que j'appelle e
+     h: ce que je peux te
+<37> hotesse
+     h: Prénom3 aussi
+<38> hotesse+hotesse2
+     h: en revanche
+     h: ben
+<39> hotesse2
+     h: ouais
+<40> hotesse
+     h: dans un premier temps faut que j'appelle Prénom3 parce que j'ai pas le code
+<41> hotesse2
+     h: ouais #
+<42> hotesse
+     h: et puis e dans un deuxième temps # il faut que e j'appelle e mon collègue de Lorient pour qu'il me réexplique comment mettre en route le beans
+<43> hotesse2
+     h: ouais
+<44> hotesse+hotesse2
+     h: et # donc e
+     h: [bb] mon pauvre Prénom2 ouais
+<45> hotesse2
+     h: et Prénom4 sait pas faire
+<46> hotesse
+     h: ben Prénom4 il est pas là # Prénom 4 il a fait mais il est pas là le mercredi après-midi
+<47> hotesse2
+     h: oui mais si on fait demain
+<48> hotesse
+     h: ben si demain matin il pourra faire
+<49> hotesse2
+     h: et ben à ce moment là c'est Prénom4 qu'est au courant
+<50> hotesse
+     h: de # ben il connaît le code lui
+<51> hotesse+hotesse2
+     h: et la dernière
+     h: et et t()
+<52> hotesse
+     h: fois c'est lui qu'avait remplacé sa femme quand elle était pas là
+<53> hotesse2
+     h: et ben alors on on on demande à ce moment là à Prénom4
+<54> hotesse+hotesse2
+     h: on verra ça
+     h: demain mat(in)
+<55> hotesse
+     h: et pis ouais pis demain si si tu tu tu as un problème ben j'irai parce que bon e
+<56> hotesse2
+     h: ouais
+<57> hotesse
+     h: ça passe avant hein là # là là il y a des priorités où
+<58> hotesse2
+     h: oui
+<59> hotesse
+     h: t'es bien obligé de foutre des priorités à des priorités aussi
+<60> hotesse2
+     h: [bb] je sais bien parce que e je
+<61> hotesse+hotesse2
+     h: ouais # ben ouais
+     h: sais bien hein
+<62> hotesse
+     h: les examens c'est # un cours tu peux le déplacer c'est pas
+<63> hotesse+hotesse2
+     h: le problème mais un examen le mec
+     h: ben oui mais un exa(men) un exa(men) # non non
+<64> hotesse
+     h: il a buché il est prêt
+<65> hotesse+hotesse2
+     h: ouais et # enfin bon
+     h: oui oui # oui oui # et surtout que bon
+<66> hotesse2
+     h: Prénom3 était au courant je lui avais dit qu'en fin de semaine il y avait des sujets d'examen à bon elle me l'avait dit il y a pas de problèmes hein
+<67> hotesse
+     h: hum
+<68> hotesse2
+     h: mais bon elle fait pas elle est malade elle est malade hein
+<69> hotesse+hotesse2
+     h: bon ben
+     h: bon ben
+<70> hotesse
+     h: t'inquiète bon si lui il peut pas moi je le ferai
+<71> hotesse2
+     h: bon écoute on # on voit cet après-midi il est pas là Prénom4
+<72> hotesse+hotesse2
+     h: il est pas là
+     h: que je sache un p(eu)
+<73> hotesse
+     h: mais je vais prévenir Prénom5 que déjà il mette
+<74> hotesse+hotesse2
+     h: ça
+     h: voilà
+<75> hotesse
+     h: sur le programme de demain matin
+<76> hotesse2
+     h: voilà demain matin et qu'on fasse ça
+<77> hotesse
+     h: et je téléphone à mon collègue
+<78> hotesse+hotesse2
+     h: demain
+     h: ouais
+<79> hotesse
+     h: matin pour savoir s'il est là au cas où il y aurait un
+<80> hotesse2
+     h: souci
+<81> hotesse
+     h: un cheese e qu'il
+<82> hotesse2
+     h: oui
+<83> hotesse
+     h: soit prêt pour me rendre service
+<84> hotesse2
+     h: ouais d'accord ok
+<85> hotesse
+     h: allez salut
+<86> hotesse+hotesse2
+     h: Prénom ciao
+     h: merci Prénom2
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour c'est monsieur Nom j'ai ma fille qui a passé son DEUG l'année dernière et puis e elle voulait récupérer son diplôme alors je sais pas quand est ce qu'elle peut le récupérer
+<03> hotesse
+     h: elle a passé son e quel DEUG e monsieur
+<04> client
+     c: le DEUG de e a() ad() administration économique et
+<05> hotesse+client
+     h: donc c'est chez nous alors e ouais
+     c: sociale hein
+<06> hotesse
+     h: donc c'est à rue de la Loi c'est Vannes centre
+<07> hotesse+client
+     h: ouais c'est ça oui
+     c: parce que ouais parce
+<08> hotesse
+     h: que les les sciences ils sont partis à Tohannic et puis bon les gens qui savent pas il viennent récupérer les les DEUG de S V ou S M ici si vous voulez
+<09> client
+     c: ah oui
+<10> hotesse
+     h: donc c'est pour ça il faut nous préciser le DEUG donc c'est le DEUG a() ac() économique
+<11> hotesse+client
+     h: ouais donc elle
+     c: oui A E S elle a eu oui
+<12> hotesse
+     h: peut revenir quand elle veut elle peut venir quand elle veut
+<13> hotesse+client
+     h: [pi]
+     c: e c'est ouvert aujourd'hui par exemple
+<14> hotesse
+     h: comment
+<15> client
+     c: aujourd'hui c'est ouvert par exemple
+<16> hotesse
+     h: ah oui oui c'est ouvert hein jusqu'à dix sept heures trente
+<17> client
+     c: jusqu'à dix sept heures trente [pi]
+<18> hotesse
+     h: enfin moi je vais partir tout à l'heure à seize heures parce que
+<19> hotesse+client
+     h: je suis en congé
+     c: oui [rire]
+<20> hotesse
+     h: mais e elle va passer à quelle heure
+<21> client
+     c: ben e(lle) elle est sur la route de Rennes e pour venir de Rennes là donc e elle va passer
+<22> hotesse+client
+     h: ben sinon elle
+     c: ben je sais pas bientôt
+<23> hotesse
+     h: s'adresse e au secrétariat hein qu'elle s'inquiète pas hein
+<24> client
+     c: d'accord ben je vais lui dire qu'elle peut passer à ce moment là jusqu'à dix sept heures
+<25> hotesse
+     h: ouais ouais ouais ben e et a dix si il y a personne à l'accueil elle va directement au secrétariat
+<26> client
+     c: d'accord
+<27> hotesse
+     h: voilà
+<28> hotesse+client
+     h: au revoir # [pi]
+     c: et bien je vous remercie
+
+
+<01> hotesse
+     h: U B S allo
+<02> hotesse2
+     h: oui e Prénom
+<03> hotesse
+     h: ouais
+<04> hotesse2
+     h: e j'ai en communication là une personne qui a un souci avec e son inscription je te passe
+<05> hotesse
+     h: un souci avec une inscription
+<06> hotesse2
+     h: ouais
+<07> hotesse+hotesse2
+     h: ouais ben passe-la moi ouais
+     h: d'accord
+<08> hotesse2
+     h: Ok
+<09> hotesse
+     h: allo
+<10> client
+     c: allo
+<11> hotesse
+     h: bonjour madame
+<12> client
+     c: bonjour excusez-moi de vous déranger
+<13> hotesse
+     h: je vous en prie
+<14> client
+     c: e j'aurais voulu avoir des précisions s'il vous plait parce qu'en fait e donc en ce qui concerne l'inscription à Vannes
+<15> hotesse
+     h: hm
+<16> client
+     c: e sur internet en fait # e la préinscription donc je l'ai faite
+<17> hotesse+client
+     h: oui
+     c: tout c'est bien passé
+<18> hotesse
+     h: oui
+<19> client
+     c: e et il y avait une inscription en accès libre donc c'est du dix sept mai au six juin
+<20> hotesse
+     h: e la validation de e d'un voeu
+<21> client
+     c: oui voilà
+<22> hotesse
+     h: parmi les trois voeux
+<23> hotesse+client
+     h: que vous avez effectués e
+     c: [pi] oui voilà
+<24> hotesse
+     h: enfin trois voeux ou
+<25> hotesse+client
+     h: bien d() [pi] un ou un deux voilà e
+     c: ouais j'a() je non j'en avais fait qu'un en fait c'est ça ouais
+<26> hotesse
+     h: et vous voulez le valider
+<27> client
+     c: ouais voilà en fait non non tout c'est bien passé je l'ai fait
+<28> hotesse
+     h: hm
+<29> client
+     c: et e hier par curiosité j'ai voulu voir e si je m'étais vraiment e enfin si je m'étais pas trompée bon b() vu que c'était le dernier jour
+<30> hotesse
+     h: hm
+<31> client
+     c: et e quand j'ai voulu regarder e et e c'était pas marqué en fait que j'avais fait un un choix définitif il y avait rien il y avait pas deux tableaux comme il y avait eu la première fois
+<32> hotesse+client
+     h: ou bien e vous le referez e lorsque
+     c: donc je voulais savoir si c'était normal
+<33> hotesse
+     h: ça va la connexion va ré(ouvir) se réouvrir à la e pour la val(idation) pour le e la confirmation du bac
+<34> client
+     c: d'accord
+<35> hotesse
+     h: donc e lorsque vous allez réouvrir
+<36> client
+     c: hm hm
+<37> hotesse
+     h: donc il va vous redemander de e confirmer le voeu ça c'est pour envoyer
+     h: un dossier mais bon on vous enverra le dossier du e ne quittez pas hein
+<38> client
+     c: d'accord
+<39> hotesse
+     h: # oui # ah ok # bon allo
+<40> client
+     c: allo
+<41> hotesse
+     h: donc vous allez # valider
+<42> client
+     c: oui
+<43> hotesse
+     h: confirmer le bac et à ce moment là vous aurez une date et une heure de e de rendez-vous
+<44> client
+     c: d'accord donc c'est normal en fait qu'on ne qu'on ne voit pas e le choix e
+<45> hotesse
+     h: e peut-être ça a pas été pris mais bon ceux qui l'ont pas fait ils vont le refaire là
+<46> client
+     c: d'accord
+<47> hotesse
+     h: parce qu'il y en a qui l'ont pas fait
+<48> client
+     c: d'accord
+<49> hotesse
+     h: e
+<50> client
+     c: voilà [pi] c'est tout ce que je voulais savoir parce que je m'inquiétais un peu de pas a(voir)
+<51> hotesse+client
+     h: non non il y en a il y en a beaucoup qui
+     c: de pas avoir
+<52> hotesse
+     h: qui ont pas fait ça ceux qui étaient candidat e à la fois à l'I U T et puis e chez nous
+<53> hotesse+client
+     h: et ils savaient pas
+     c: hm hm
+<54> hotesse
+     h: si il fallait valider ou attendre les résultats de l'I U T
+<55> hotesse+client
+     h: d'accord parce que ben moi
+     c: et de tout ça
+<56> client
+     c: j'avais validé c'est pour ça et e ben je je voyais je vois pas sur l'écran donc e bon
+<57> hotesse
+     h: ben je vais regarder quand même e e c'est quoi votre numéro
+<58> client
+     c: alors hop attendez 0 6
+<59> hotesse
+     h: 0 6
+<60> client
+     c: F
+<61> hotesse
+     h: non non mais votre votre numéro de téléphone parce
+<62> hotesse+client
+     h: que là j'ai j'ai du monde et
+     c: ah pardon
+<63> hotesse
+     h: je vais m'en occuper et je vous rappelle
+<64> hotesse+client
+     h: si j'ai le temps
+     c: alors
+<65> client
+     c: 0 2 97
+<66> hotesse
+     h: ouais
+<67> client
+     c: 76
+<68> hotesse
+     h: ouais
+<69> client
+     c: 40
+<70> hotesse
+     h: 40
+<71> client
+     c: XX
+<72> hotesse
+     h: XX # 0 2 97 76 40 XX vous êtes e
+<73> client
+     c: madam(e) mademoiselle Nom
+<74> hotesse
+     h: N O M
+<75> client
+     c: voilà
+<76> hotesse
+     h: alors donc là je vais prendre votre code en même temps
+<77> client
+     c: c'est ce que j'allais vous donner tout à l'heure [rire]
+<78> hotesse
+     h: [rire] [pi] je comptais rappeler tout de suite mais il dit e si jamais je vous ai pas je peux toujours e connecter c'est e alors le code c'est
+<79> client
+     c: 0 6
+<80> hotesse
+     h: ouais
+<81> client
+     c: R
+<82> hotesse
+     h: R
+<83> client
+     c: P
+<84> hotesse
+     h: R P
+<85> client
+     c: M
+<86> hotesse
+     h: 0 6 R P M
+<87> client
+     c: X X
+<88> hotesse
+     h: 0 6 R P M X X
+<89> client
+     c: voilà
+<90> hotesse
+     h: Ok
+<91> client
+     c: ben je vous remercie
+<92> hotesse
+     h: à votre service à tout à l'heure au revoir
+<93> client
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: allo oui bonjour je voulais juste avoir un petit renseignement
+<03> hotesse
+     h: e
+<04> client
+     c: e je voulais vous demander e est ce que vous savez quel jour seront affichés les résultats des examens de e première année de droit
+<05> hotesse
+     h: # e # attendez je vais voir si
+<06> hotesse+client
+     h: si
+     c: d'accord merci
+<07> hotesse
+     h: si il y a quelque chose #
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour Prénom Nom au service scolarité de l'I U T de Vannes j'essaie de joindre Prénom2 Nom2 # elle est pas là cet après-midi
+<03> hotesse
+     h: e vous avez fait le 725
+<04> client
+     c: oui c'est ça
+<05> hotesse
+     h: # ne quittez pas je vais voir
+<06> client
+     c: merci
+
+
+<01> hotesse
+     h: U B S Bonjour
+<02> client
+     c: oui bonjour madame e j'aurais aimé savoir e où se trouve la réunion de présentation du D A E U ce soir
+<03> hotesse
+     h: du D A E U ah je sais pas c'est avec qui
+<04> client
+     c: e ben je sais pas je vous ai téléph(oné) enfin je sais pas si c'est vous sur qui je suis tombée e vous préparez un examen e qui s'appelle le D A E U un équivalent bac au niveau de l'université et il y a une réun() réunion de présentation ce soir
+<05> hotesse
+     h: e conservez je vais demander # à qu() à partir de quelle heure ce soir
+<06> client
+     c: c'est à dix huit heures
+<07> hotesse
+     h: et comme moi je viens d'arriver là je sais pas est ce que tu sais où il y a une réunion de D A E U à dix huit heures tu n'es pas au courant #
+
+
+<01> hotesse+hotesse2
+     h: U B S bonjour
+     h: oui salut Prénom
+<02> hotesse
+     h: ah c'est Prénom
+<03> hotesse2
+     h: e tu vas essayer de voir je sais pas avec qui si peut-être avec Prénom2 mais il doit être à la
+<04> hotesse+hotesse2
+     h: ben oui
+     h: repro(graphie)
+<05> hotesse2
+     h: ce soir il doit y avoir une réunion sur le D A E U qui doit se faire à l'I U(P) e rue de la Loi
+<06> hotesse+hotesse2
+     h: oui [pi] oui
+     h: [pi]
+<07> hotesse2
+     h: c'est pas ici
+<08> hotesse
+     h: non c'est rue de la Loi
+<09> hotesse2
+     h: oh je je pense parce que
+<10> hotesse
+     h: écoute là je sais qui c'est ici oui
+<11> hotesse2
+     h: ah oui oui ben je te passe la b() la dame elle veut quelques renseignements sur ça
+<12> hotesse
+     h: d'accord ben passe-la moi
+<13> hotesse2
+     h: ok
+<14> hotesse
+     h: # allo
+<15> client
+     c: allo bonjour monsieur
+<16> hotesse
+     h: e b() non c'est une dame
+<17> client
+     c: ah pardon excusez-moi madame [rire] pardon
+<18> hotesse
+     h: non non
+<19> client
+     c: e j'aimerais savoir e j'ai une réunion ce soir e
+<20> hotesse+client
+     h: c'est vous qui avez appelé tout à l'heure
+     c: oui
+<21> client
+     c: ça a ça a coupé ou je sais
+<22> hotesse+client
+     h: on a été coupé
+     c: pas
+<23> hotesse
+     h: parce que je me renseignais si si c'est bien rue de la Loi
+<24> client
+     c: c'est un rue de la Loi hein
+<25> hotesse
+     h: oui c'est rue de la Loi la réunion
+<26> client
+     c: et e ben c'est un grand bâtiment c'est ce sera indiqué
+<27> hotesse
+     h: oui c'est indiqué oui oui oui
+<28> client
+     c: très bien merci beaucoup madame
+<29> hotesse+client
+     h: au revoir madame
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: bonjour madame excusez moi de vous déranger e en fait je vous appelle parce que j'ai passé ma maîtrise e donc à l'U B S l'année dernière
+<03> hotesse
+     h: oui
+<04> client
+     c: de droit et je voulais savoir si les diplômes e on pouvait les v() venir les retirer en fait les diplômes
+<05> hotesse
+     h: je vais vous passer la personne concernée
+<06> client
+     c: merci
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame e j'appelais pour avoir un petit renseignement e je souhaitais savoir si l'université préparait e comment faisait faisait une préparation à des concours administratifs style e rédacteur territorial ou adjoint administratif
+<03> hotesse
+     h: des concours administratifs
+<04> client
+     c: ouais
+<05> hotesse
+     h: si on avait un programme sur ça
+<06> client
+     c: voilà oui oui
+<07> hotesse
+     h: [pi] on a pas de programme pour e
+<08> hotesse2
+     h: je l'avais [pi]
+<09> hotesse
+     h: est ce qu'il y aurait pas des concours administratifs
+<10> hotesse2
+     h: e des concours administratifs e ouais il y a un service de [pi] de douze heures à dix-huit heures # allo
+<11> client
+     c: allo
+<12> hotesse2
+     h: ouais c'est quels concours vous parlez madame
+<13> client
+     c: e donc e s(oit) soit adjoint administratif ou rédacteur e
+<14> hotesse2
+     h: ah non c'est pas ça c'est pas ici chez nous non
+<15> client
+     c: non c'est pas vous ne faîtes pas de préparations e # e pour ces concours-là
+<16> hotesse2
+     h: ah non c'est nous on a une préparation interne pour nos candidats quoi pour notre personnel disons c'est tout
+<17> client
+     c: ah d'accord
+<18> hotesse2
+     h: ouais ouais
+<19> client
+     c: d'accord non non moi je cherchais e si vous voulez e
+<20> hotesse2
+     h: il y a le CNED sinon e
+<21> client
+     c: ouais et je sais aussi que à Rennes il y a une formation e u(ne) licence professionnelle e pour e enfin pour les professionnels des collectivités territoriales
+<22> hotesse2
+     h: ouais
+<23> client
+     c: e donc j'ai trouvé ça dans
+<24> hotesse2
+     h: donc faudrait que vous appeliez le S U I O ça à ce moment là
+<25> client
+     c: c'est le le quoi
+<26> hotesse2
+     h: le Service Universitaire de l'Information et de l'Orientation donc 0 2 97 0 1 27 0 0
+<27> client
+     c: 0 1 27 0 0
+<28> hotesse2
+     h: voilà c'est le Service Universitaire de l'Information et de l'Orientation parce que ici vous êtes à l'accueil de la fac de droit donc e
+<29> client
+     c: d'accord
+<30> hotesse2
+     h: e on ne sait pas tout quoi
+<31> client
+     c: très bien
+<32> hotesse2+client
+     h: donc le Service
+     c: je vous remerc(ie)
+<33> hotesse2
+     h: de l'Information et de l'Orientation lui il doit peut-être e au au moins il vous donnera le numéro où téléphoner quoi
+<34> client
+     c: d'accord très bien
+<35> hotesse2+client
+     h: voilà
+     c: je vous remercie
+<36> client
+     c: au revoir
+<37> hotesse2
+     h: à votre service au revoir
+
+
+<01> hotesse
+     h: U B S Bonjour
+<02> client
+     c: oui bonjour madame e j'aurais souhaité parler à madame Nom s'il vous plait
+<03> hotesse
+     h: madame Nom conservez je vais voir si e # ah ben elle est pas elle est sur Lorient madame Nom
+<04> client
+     c: ah bon parce que on m'a donné ce numéro
+<05> hotesse
+     h: elle est là que le lundi et le mardi
+<06> client
+     c: ah d'accord très bien parce qu'on m'a donné un autre numéro c'est le 88 05 49
+<07> hotesse
+     h: oui oui je vais vous donner le numéro de téléphone directement de Lorient de madame Nom
+<08> client
+     c: ouais d'accord
+<09> hotesse
+     h: hein
+<10> hotesse+client
+     h: conservez
+     c: d'accord
+<11> hotesse
+     h: # alors là elle est là le lundi et le mardi tout simplement et autrement elle est sur Lorient
+<12> client
+     c: d'accord
+<13> hotesse
+     h: alors madame Nom madame Nom Madame mais je ne sais plus [pi] #
+<14> client
+     c: je crois que c'est Prénom
+<15> hotesse
+     h: oui c'est Prénom c'est ça #
+<16> client
+     c: mais je crois qu'on m'a donné l'autre numéro hein je suis en train de vous laisser chercher quelque chose que j'ai déjà
+<17> hotesse+client
+     h: ah bon quel numéro vous avez quel
+     c: c'est pas gentil [rire]
+<18> hotesse
+     h: numéro vous avez
+<19> client
+     c: j'ai le 88 0 5 49 # on m'a dit d'essayer soit l'un soit l'autre
+<20> hotesse
+     h: Nom Prénom alors sur Lorient
+<21> client
+     c: oui
+<22> hotesse
+     h: le 88 0 5 49
+<23> client
+     c: hein c'est ça hein
+<24> hotesse+client
+     h: d'accord c'est celui là # voilà au revoir
+     c: d'accord très bien je vous remercie madame au revoir
+
+
+<01> hotesse
+     h: U B S Bonjour
+<02> client
+     c: bonjour madame excusez-moi de vous déranger j'ai appelé tout à l'heure pour savoir si on pouvait [pf] venir récupérer les diplômes de licence
+<03> hotesse+client
+     h: # oui alors attendez je vais vous
+     c: et
+<04> hotesse
+     h: passer la
+<05> hotesse+client
+     h: personne
+     c: ouais [rire]
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour [pi] j'aurais aimé savoir si les diplômes de [pi] qui a été envoyé au rectorat pour des modifications était arrivé ou pas
+<03> hotesse
+     h: e j'ai pas compris vous p() [rire] oui
+<04> client
+     c: donc en fait il y a un diplôme qui a été envoyé au rectorat pour des modifications et donc j'aurais aimé savoir est-ce qu'il vous est parvenu ou pas encore
+<05> hotesse
+     h: est-ce que à oui au rectorat
+<06> hotesse+client
+     h: c'est sur Lorient
+     c: ouais
+<07> hotesse
+     h: ça
+<08> client
+     c: hein là je suis à Lorient
+<09> hotesse
+     h: non c'est à Vannes
+<10> client
+     c: ouais ben ouais ouais ouais
+<11> hotesse
+     h: et en quelle filière
+<12> client
+     c: A E S de deux mille deux
+<13> hotesse
+     h: alors attendez je vais vous passer la personne conservez hein
+<14> client
+     c: oui # [pi]
+<15> hotesse
+     h: [pi]
+<16> client
+     c: [pi]
+<17> hotesse2
+     h: oui allo
+<18> hotesse
+     h: oui c'est pour toi Prénom
+<19> hotesse2
+     h: merci
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame e j'ai inscrit par e par e comment ça s'appelle e [pf] ah zut
+<03> hotesse
+     h: internet
+<04> client
+     c: int(ernet) bravo oui parce que actuellement j'ai des problèmes d'internet j'arrive pas à retrouver le nom hein
+<05> hotesse+client
+     h: oui
+     c: on
+<06> client
+     c: est en train de nous installer l'A D S L donc je suis coupée du monde pour l'instant [pf] alors e j'ai j'avais mis comme deuxième souhait de notre fils e votre e le DEUG d'économie et gestion
+<07> hotesse
+     h: oui
+<08> client
+     c: [pf] et # ah je sais p(as) ah non non c'est administration économie et sociale voilà c'est ça économique et sociale e je me je sais pas si d'ailleurs je me suis pas trompée entre les deux [pf] et je voulais savoir que ce qu'il fallait faire maintenant est-ce que je peux qu'est ce qu'il faut faire
+<09> hotesse
+     h: oui alors je vais vous passer une personne qui se trouve [pf] # alors attendez elle est absentée ici mais je vais vous la passer ailleurs parce qu'elle est partie à la repro donc elle s'occupe de ça conservez hein
+<10> client
+     c: c'est gentil merci madame
+<11> hotesse
+     h: # alors il ne répond pas pour le moment
+<12> client
+     c: d'accord
+<13> hotesse
+     h: donc rappelez dix min(utes) [pi] rap(pelez)
+<14> client
+     c: au même numéro
+<15> hotesse
+     h: e oui rappelez ici # autrement je vais vous donner celui qui est à la repro mais il va pas rester tout le temps à la repro c'est une collègue qui est absente donc il la remplace pour e faire des papiers e des dossiers que les profs ont besoin [pf] donc mais il va pas être là tout le temps donc rappelez ici à l'accueil
+<16> client
+     c: d'accord je rappelle à l'accueil ok merci
+<17> hotesse+client
+     h: oui
+     c: à tout à l'heure
+<18> hotesse
+     h: au revoir
+<19> client
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: bonjour madame madame Nom s'il vous plait
+<03> hotesse
+     h: [pi] ah elle s'est absentée de son bureau
+<04> client
+     c: ah e e bon je peux la rappeler plus tard à ce moment là
+<05> hotesse
+     h: oui oui oui rappelez parce qu'elle est là mais elle m'a dit qu'elle partait un petit peu donc e
+<06> hotesse+client
+     h: hein vous pouvez tout à l'heure au revoir
+     c: OK merci au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame excusez-moi de vous déranger [pf] en fait je suis étudiant et en fait j'aurais voulu savoir e les formations qui e qu'il y avait au niveau des troisièmes cycles avec le nouveau master qui va se mettre en place [pf] en gestion en fait ce que vous aviez
+<03> hotesse
+     h: I() I U P sciences de gestion
+<04> client
+     c: comment
+<05> hotesse
+     h: I U P sciences de gestion
+<06> client
+     c: non pour savoir ce que vous aviez en en master en fait
+<07> hotesse
+     h: oui conservez je vais vous passer # je v() [pi] je vais vous passer une personne hein conservez
+<08> client
+     c: d'accord
+<09> hotesse
+     h: # qu'est-ce qui fait où c'est que j'ai mis ma feuille [pi] c'est pas le S U I O qui peut les renseigner [pi] # et c'est vous autrement # oui est-ce que vous pouvez rappeler la semaine prochaine parce qu'ils n'ont pas eu toutes les informations e
+<10> client
+     c: d'accord parce que en fait les dates d'inscription c'est quand la clôture
+<11> hotesse
+     h: c'est pour les la date d'inscription c'est ça
+<12> client
+     c: e ouais pour s'inscrire par exemple s'il y a un master qui m'intéresse
+<13> hotesse+client
+     h: c'est quand la date but(oir) # la date butoir e
+     c: il y a un master qui l'intéresse et il voudrait s'inscrire e
+<14> hotesse
+     h: # S G E G # oui
+<15> client
+     c: comment
+<16> hotesse
+     h: [pi] c'est en S() S G E G
+<17> client
+     c: ça veux dire quoi # S
+<18> hotesse
+     h: en droit
+<19> client
+     c: c'est en économie
+<20> hotesse+client
+     h: économie et gestion
+     c: gestion en fait
+<21> hotesse
+     h: donc
+<22> hotesse+client
+     h: [pi]
+     c: et justement je
+<23> client
+     c: je voulais e savoir ce qu'il y avait en fait comme offre # de formation
+<24> hotesse
+     h: # oui ben conservez je vais vous passer une autre personne hein
+<25> client
+     c: d'accord
+<26> hotesse
+     h: [pi]
+<27> client
+     c: merci
+<28> hotesse
+     h: [pi] # [pi] il doit peut-être savoir [pi] qui est ce qui pourrait me [pi] # oui à tout à l'heure oui #
+<29> hotesse2
+     h: oui
+<30> hotesse
+     h: oui je te passe une communication
+<31> hotesse2
+     h: d'accord
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame madame Nom de Brest je vous appelle pour savoir si vous faîtes la capacité en droit
+<03> hotesse
+     h: en quelle filière
+<04> client
+     c: en droit
+<05> hotesse
+     h: en droit oui je vais vous passer Prénom Nom
+<06> client
+     c: ah oui là je suis pas en droit
+<07> hotesse+client
+     h: si vous êtes en droit
+     c: parce que je
+<08> hotesse
+     h: si si mais à l'accueil
+<09> hotesse+client
+     h: je vous passe la pers(onne)
+     c: ah d'accord oui d'accord
+<10> hotesse
+     h: personne de la scolar(ité) [pronounce=scora] scolarité
+<11> client
+     c: d'accord merci
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour je vous appelle au sujet des résultats de DEUG droit deuxième année j'aimerais savoir quand est ce qu'ils seraient affichés
+<03> hotesse
+     h: oui je vais vous passer une personne conservez si
+<04> client
+     c: d'accord merci [rire]
+<05> hotesse2
+     h: # oui
+<06> hotesse
+     h: oui je te je te passe une communication
+<07> hotesse2
+     h: ouais
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu avoir des renseignements pour e l'() l'inscription en A E S administration économique et sociale
+<03> hotesse
+     h: Nom oui [pi] oui conservez je vais vous passer la personne
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: bonjour ici Prénom Nom est ce que je pourrais avoir Prénom2 Nom2 s'il vous plait
+<03> hotesse
+     h: # oui
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame madame Nom à l'appareil je be(n) je cherche à joindre monsieur Nom2
+<03> hotesse
+     h: monsieur Nom2 vous avez essayé son bureau
+<04> hotesse+client
+     h: direct
+     c: oui
+<05> client
+     c: oui
+<06> hotesse+client
+     h: ah oui ok
+     c: il répond pas
+<07> hotesse
+     h: non ben il doit pas être
+<08> hotesse+client
+     h: là pour le moment
+     c: c'est() c'est e
+<09> client
+     c: 0 1 26 58 c'est ça
+<10> hotesse
+     h: monsieur Nom2 attendez je regarde
+<11> hotesse+client
+     h: bien
+     c: 0 1 26
+<12> client
+     c: 26 58
+<13> hotesse
+     h: # e je cherche parce que j'ai pas le numéro en tête
+<14> client
+     c: hm
+<15> hotesse
+     h: Nom2 Nom2 Nom2 # oui c'est ça alors attendez
+<16> client
+     c: bon
+<17> hotesse
+     h: c'est ça c'est ça oui
+<18> client
+     c: c'est ça et madame Nom3 j'ai pas son numéro direct
+<19> hotesse
+     h: madame Nom3
+<20> client
+     c: oui
+<21> hotesse
+     h: six cent quarante neuf à la fin
+<22> client
+     c: c'est six cent quarante n(euf) # e combien
+<23> hotesse
+     h: e six cent quarante neuf
+<24> client
+     c: 26 49 c'est
+<25> hotesse+client
+     h: en tout ah bien oui mais nous on fait 26 9
+     c: ça d'accord # oui
+<26> hotesse
+     h: oui oui oui je sais vous bon je fais les mêmes e au départ
+<27> hotesse+client
+     h: ouais 0 2 97
+     c: bon ok c'est elle qui est responsable
+<28> client
+     c: de la première année e A E S
+<29> hotesse
+     h: oui mais je peux vous passer le secrétariat autrement # mais je crois qu'elle est en ligne la personne # mais autrement oui il y a Nom2 Prénom2 Prénom3 [pi]
+<30> client
+     c: bon mais je vais non écoutez je vais l'appeler lui directement c'est quand même plus # courtois
+<31> hotesse+client
+     h: d'accord
+     c: je vais l'appeler
+<32> client
+     c: directement
+<33> hotesse+client
+     h: au revoir
+     c: merci madame
+<34> client
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: e bonjour c'est Prénom Nom de l'ADEFOP
+<03> hotesse
+     h: oui
+<04> client
+     c: c'est Prénom2
+<05> hotesse
+     h: non c'est pas Prénom2 c'est Prénom3
+<06> client
+     c: Prénom3
+<07> hotesse
+     h: Prénom3 Nom3 qui est à Tohannic mais qui est là pour remplacer Prénom2
+<08> client
+     c: ah d'accord ben voilà j'ai toutes les explications
+<09> hotesse+client
+     h: voilà pourquoi c'est pas la même voix oui
+     c: [rire] [pf] [rire]
+<10> client
+     c: non parce que je connais Prénom2 et Prénom4 à l'accueil et puis voilà à T(ohannic) à rue de la Loi donc j'étais étonnée
+<11> hotesse+client
+     h: voilà
+     c: donc
+<12> client
+     c: e moi j'appelais parce que ce soir à six heures dix-huit heures il y a une réunion d'info(rmations) enfin deux réunions d'informations rue de la Loi
+<13> hotesse
+     h: oui c'est ici
+<14> client
+     c: on a réservé des salles est-ce que parce que je que je pense qu'à six heures l'accueil va être fermé
+<15> hotesse
+     h: oui
+<16> client
+     c: est ce que on voudrait afficher des on voudrait mettre des panneaux avec les numéros de salles
+<17> hotesse
+     h: oui
+<18> client
+     c: e il doit y avoir des supports non
+<19> hotesse
+     h: e oui il faut que j'en parle à Prénom4 parce que Prénom4 est à la repro ce que je vais faire je vais
+<20> client
+     c: ou je rappelle Prénom4 vous préférez
+<21> hotesse+client
+     h: e
+     c: ou
+<22> client
+     c: Prénom4 me rappelle tout à l'heure
+<23> hotesse
+     h: oui enfin toute manière je crois qu'il est il est à la repro pour l'instant
+<24> client
+     c: oui
+<25> hotesse
+     h: donc e à une heure et demie ben je peux lui dire e de vous rappeler oui
+<26> client
+     c: oui parce qu'il doit y avoir des panneaux à mettre
+<27> hotesse+client
+     h: ouais # je vais prendre votre numéro
+     c: à l'extérieur ou quelque chose comme ça
+<28> client
+     c: alors mon numéro c'est 0 2 97 oh ben voilà que j'ai un trou maintenant
+<29> hotesse
+     h: oh oui ben on se téléphone
+<30> hotesse+client
+     h: pas beaucoup
+     c: ça va mal
+<31> client
+     c: non 0 2 97 0 1 72 XX
+<32> hotesse
+     h: 72
+<33> hotesse+client
+     h: XX
+     c: Prénom Nom
+<34> hotesse
+     h: Prénom Nom
+<35> hotesse+client
+     h: oui d'accord
+     c: à l'ADEFOP
+<36> hotesse
+     h: d'accord c'est lui qui s'occupe de de ça
+<37> client
+     c: d'accord
+<38> hotesse
+     h: d'accord
+<39> hotesse+client
+     h: et vous rep()
+     c: merci beaucoup
+<40> hotesse
+     h: et vous reprenez à quelle heure
+<41> client
+     c: oh moi je m'arrête une demie heure de midi à midi et demie hein
+<42> hotesse
+     h: d'accord
+<43> client
+     c: voilà
+<44> hotesse
+     h: d'accord
+<45> client
+     c: au revoir
+<46> hotesse
+     h: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui Prénom Nom bonjour e j'aimerais joindre e monsieur Nom2 # Prénom2
+<03> hotesse
+     h: Monsieur Nom2 Prénom2 oui
+<04> client
+     c: c'est possible
+<05> hotesse
+     h: oui je vais regarder s'il est dans son bureau ou au secrétariat
+<06> client
+     c: merci c'est madame Nom3
+<07> hotesse
+     h: oui
+<08> client
+     c: c'est ça
+<09> hotesse+client
+     h: je vais vous passer madame
+     c: oui d'accord
+<10> hotesse
+     h: Nom3 hein elle va vous dire si e
+<11> client
+     c: merci
+<12> hotesse
+     h: #
+     h: attends est-ce que tu sais où sont les grands plastiques e les sacs poubelles e Prénom4 ou vous les rangez vos grands sacs poubelles [pi] # Nom5 # Prénom5 Nom5 oui elle voudrait des grands # sacs poubelles # non elle ne répond pas pour le moment
+<13> client
+     c: d'accord
+<14> hotesse+client
+     h: je lui d(is)
+     c: je rappelle
+<15> client
+     c: dans un instant peut être
+<16> hotesse
+     h: oui d'ici un petit quart d'heure
+<17> client
+     c: est-ce qu'il y a une ligne directe pour le son service
+<18> hotesse+client
+     h: e oui
+     c: ou est-ce
+<19> hotesse
+     h: 0 2 97
+<20> client
+     c: oui
+<21> hotesse
+     h: 0 1
+<22> client
+     c: 26
+<23> hotesse
+     h: 26 73
+<24> client
+     c: ok
+<25> hotesse+client
+     h: voilà
+     c: merci
+<26> hotesse
+     h: au revoir monsieur
+<27> client
+     c: bonne journée
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu le secrétariat de la fac de droit
+<03> hotesse
+     h: e oui qu'avez v() dans quelle filière
+<04> client
+     c: e [pf] [pi] je je en fait j'ai reçu un un appel sur mon portable parce que je je donne des cours et c'est j'aurais voulu la personne qui s'occupe en maîtrise de droit publique de de collecter les notes alors je c'est #
+<05> hotesse+client
+     h: [pi]
+     c: sur un portable c'est
+<06> client
+     c: très mal indiqué je j'arrive pas à comprendre le nom
+<07> hotesse
+     h: ça doit être Nom Prénom
+<08> client
+     c: e c'est possible oui
+<09> hotesse
+     h: oui Nom2 Prénom2
+<10> client
+     c: peut-être oui vous
+<11> hotesse
+     h: et sur v() le papier c'est marqué quoi # vous avez du mal à relire
+<12> client
+     c: non c'est c'est sur mon portable j'ai eu un un message
+<13> hotesse
+     h: de droit publique
+<14> client
+     c: oui droit publique mais j'arrive pas e j'arrive pas à
+<15> hotesse+client
+     h: [pi] le nom
+     c: entendre quoi j'ai j'ai pas compris le nom
+<16> hotesse
+     h: oui [pi] # licence maîtrise ou
+<17> client
+     c: maîtrise
+<18> hotesse
+     h: maîtrise # Nom Prénom conservez je vais vous la passer
+<19> client
+     c: merci beaucoup
+<20> hotesse2
+     h: #
+     h: allo
+<21> hotesse
+     h: c'est pour toi tu as dû appeler quelqu'un sur un portable
+<22> hotesse2
+     h: non
+<23> hotesse
+     h: non ben il a ton il pense que c'est toi en
+<24> hotesse2
+     h: ah bon
+<25> hotesse
+     h: oui
+<26> hotesse2
+     h: c'est un beau mec
+<27> hotesse+hotesse2
+     h: moi je
+     h: ou quoi
+<28> hotesse
+     h: vois pas il m'a eue par téléphone
+<29> hotesse2
+     h: oh ben merde alors
+<30> hotesse
+     h: oui zut
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: boujour madame madame Nom s'il vous plait
+<03> hotesse
+     h: Prénom Nom
+<04> client
+     c: oui
+<05> hotesse
+     h: oui conservez je vais vous la passer #
+<06> hotesse2
+     h: oui allo
+<07> hotesse
+     h: c'est pour toi Prénom
+<08> hotesse2
+     h: ouais
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu parler à madame Nom mais je crois que sa ligne directe ne répond pas
+<03> hotesse
+     h: e attendez si elle est dans son bureau là elle vient de rentrer
+<04> client
+     c: ah bon d'accord
+<05> hotesse
+     h: je vais essayer de vous la passer
+<06> client
+     c: merci beaucoup
+<07> hotesse
+     h: e Nom Prénom alors 12 624 conservez hein
+<08> client
+     c: oui
+<09> hotesse
+     h: #
+     h: [pi] en euros # non elle a dû s'absenter de son bureau je vais vous donner son numéro direct
+<10> client
+     c: oui
+<11> hotesse
+     h: hein alors Nom Prénom c'est le 0 2 97
+<12> client
+     c: ouais
+<13> hotesse
+     h: 0 1
+<14> client
+     c: ouais
+<15> hotesse
+     h: XX XX
+<16> client
+     c: c'est ce que j'ai fait
+<17> hotesse
+     h: ah oui c'est retombé à l'accueil
+<18> client
+     c: voilà
+<19> hotesse
+     h: donc elle a dû s'absenter de son bureau mais e(lle) elle est dans le coin donc il suffit de rappeler d'ici un petit quart d'heure
+<20> client
+     c: d'accord entendu
+<21> hotesse+client
+     h: # au revoir
+     c: merci beaucoup au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame Prénom Nom Crédit Agricole Normand service formation [pf] j'appelais au sujet d'une modification d'une convention de stage pour Prénom2 Nom2
+<03> hotesse
+     h: oui en quelle filière
+<04> client
+     c: elle est en licence professionnelle gestion des Ressources Humaines
+<05> hotesse+client
+     h: oui
+     c: dans les
+<06> client
+     c: PMO
+<07> hotesse
+     h: je vais vous passer la personne
+<08> hotesse+client
+     h: concernée donc secrétariat
+     c: d'accord merci
+<09> hotesse
+     h: c'est Prénom3 Nom3 # donc j'espère qu'elle est là parce que sinon [pi] conservez hein
+<10> client
+     c: d'accord
+<11> repondeur
+     r: est occupé veuillez rappeler ultérieurement ou effectuer un rappel automati(que)
+<12> hotesse
+     h: oui sa ligne est occupée mais je vais vous donner son numéro direct
+<13> client
+     c: d'accord alors attendez je note
+<14> hotesse
+     h: un crayon oui bien-sûr
+<15> client
+     c: oui allez-y
+<16> hotesse
+     h: 0 2 97
+<17> client
+     c: oui
+<18> hotesse
+     h: 0 1
+<19> client
+     c: oui
+<20> hotesse
+     h: 26 XX
+<21> client
+     c: d'accord
+<22> hotesse+client
+     h: Prénom3 Nom3
+     c: merci madame
+<23> client
+     c: d'accord merci beaucoup madame
+<24> hotesse+client
+     h: au revoir madame
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame pourrais-je parler à monsieur Nom s'il vous plait
+<03> hotesse
+     h: monsieur Nom
+<04> client
+     c: oui
+<05> hotesse
+     h: # je vais rechercher je vais regarder s'il est dans son bureau # et dans quelle filière il travaille
+<06> client
+     c: e il travaille e au niveau informatique
+<07> hotesse
+     h: ah c'est Prénom Nom
+<08> client
+     c: voilà tout à fait madame
+<09> hotesse
+     h: oui alors attendez lui il est en # en sciences attendez je vais vous le passer
+<10> hotesse+client
+     h: son bureau
+     c: merci
+<11> hotesse
+     h: # là vous êtes au droit # e Nom Prénom alors 0 2 97
+<12> client
+     c: oui
+<13> hotesse
+     h: 0 1
+<14> client
+     c: oui
+<15> hotesse
+     h: 70 XX
+<16> client
+     c: 70 XX # très bien je
+<17> hotesse+client
+     h: voilà au revoir
+     c: vous remercie madame au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame j'aurais voulu parler à Prénom Nom s'il vous plait
+<03> hotesse
+     h: alors Prénom Nom
+<04> client+hotesse
+     c: parce que j'ai essayé de l'appeler tout à l'heure c'était occupé occupé et puis après là ben ça ne répond plus
+     h: ah oui donc c'est ça retombe à l'accueil
+<05> hotesse+client
+     h: [pi] conservez
+     c: oui c'est pourquoi
+<06> hotesse
+     h: je vais essayer de mon côté
+<07> client
+     c: d'accord
+<08> hotesse+client
+     h: # non e(lle) elle a dû
+     c: # si tu veux
+<09> hotesse
+     h: s'absenter de son bureau pour le moment
+<10> client
+     c: d'accord bon ben je
+<11> hotesse+client
+     h: patientez
+     c: réessaierai plus tard
+<12> hotesse
+     h: oui voilà oui [rire]
+<13> client
+     c: merci au
+<14> hotesse+client
+     h: au revoir
+     c: revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'aurais voulu savoir je postule pour e donc j'étais en licence d'économie à Rennes # à Vannes pardon [pf] cette année
+<03> hotesse
+     h: oui
+<04> client
+     c: et donc je postule pour l'IGER l'année prochaine et j'aurais voulu savoir s'il était possible d'avoir e mes notes du premier semestre
+<05> hotesse
+     h: en A E S
+<06> client
+     c: non en écono(mie) en science licence sciences économiques
+<07> hotesse
+     h: oui alors conservez je vais vous passer Prénom Nom
+<08> hotesse2
+     h: oui
+<09> hotesse
+     h: oui c'est pour toi
+<10> hotesse+hotesse2
+     h: Prénom
+     h: oui merci
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour # j'aurais voulu avoir quelques précisions au sujet des pour les résultats de l'I U T e de l'I U T [pf] e de la première année de DEUG de droit
+<03> hotesse+client
+     h: première
+     c: quand
+<04> hotesse
+     h: année de DEUG de droit quand est-ce que les résultats sont e affichés
+<05> client
+     c: oui et ben et puis comment on peut les avoir parce que nous on est loin très loin
+<06> hotesse
+     h: vous êtes très loin #
+<07> hotesse+client
+     h: alors je vais vous
+     c: peut-être internet
+<08> hotesse
+     h: donner la date déjà dans un premier te(mps)
+<09> client
+     c: oui date
+<10> hotesse
+     h: première année de DEUG de droit ce sera le mercredi vingt-trois juin deux mille quatre
+<11> hotesse+client
+     h: vers
+     c: mercredi
+<12> hotesse
+     h: dix-sept heures
+<13> client
+     c: vingt-trois juin deux mille quatre à dix-sept heures oui
+<14> hotesse
+     h: bien et donc vous souhaiteriez les recevoir par courrier
+<15> client
+     c: e oui et puis les éventuellement la possibilité pour les consulter # sur sur internet ils apparaissent
+<16> hotesse
+     h: ah non je
+<17> hotesse+client
+     h: crois pas
+     c: non
+<18> hotesse
+     h: oui bon je vais e vous mettre en relation avec le secrétariat e pédagogique
+<19> client
+     c: merci
+<20> hotesse
+     h: #
+     h: eh Prénom # Prénom2 n'est pas là # Prénom2 n'est pas là # ah d'accord # alors e mademoiselle la secrétaire commence à neuf heures moins le quart donc on est un petit peu tôt là
+<21> client
+     c: e
+<22> hotesse
+     h: e vous pouvez rappeler je vous donne son numéro
+<23> hotesse+client
+     h: direct
+     c: oui
+<24> hotesse
+     h: e donc c'est le 0 2 97 0 1 26 XX
+<25> client
+     c: le 26 0 1 26
+<26> hotesse
+     h: 0 2 97 hein 0 1 26 XX
+<27> client
+     c: d'accord
+<28> hotesse+client
+     h: vous rappelez
+     c: je note
+<29> hotesse
+     h: d'ici un quart d'heure vingt minutes
+<30> client
+     c: d'accord merci
+<31> hotesse+client
+     h: voilà
+     c: au revoir
+<32> hotesse
+     h: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame excusez moi de vous déranger j'aurais voulu un renseignement
+<03> hotesse+client
+     h: oui
+     c: s'il vous plait
+<04> client
+     c: [pf] j'ai ma fille qui s'est inscrite chez vous e par internet
+<05> hotesse
+     h: hm hm
+<06> client
+     c: et elle n'a pas eu confirmation
+<07> hotesse
+     h: alors e donc elle a formulé trois voeux au départ sur internet
+<08> client
+     c: ouais oui je pense oui
+<09> hotesse
+     h: oui et avant le six juin elle a dû valider un des trois voeux
+<10> client
+     c: non justement elle a pas pu le faire
+<11> hotesse
+     h: elle n'a pas pu le faire bon alors elle souhaite s'inscrire chez nous madame
+<12> client
+     c: oui
+<13> hotesse
+     h: en quoi
+<14> client
+     c: [pf] e licence un A E S
+<15> hotesse
+     h: d'accord e je vais vous passer la e je vais vous mettre en relation avec la secrétaire de scolarité
+<16> client
+     c: d'accord ben je vous remercie beaucoup madame
+<17> hotesse
+     h: # e madame le le poste du secrétariat d(e) de scolarité ne répond pas je vais vérifier ses horaires de travail hein
+<18> client
+     c: d'accord
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour e j'aurais souhaité e avoir Prénom Nom s'il était dans les parages ou s'il n'est pas qu'il qu'il m'appelle au au site à Lorient
+<03> hotesse
+     h: oui # au site à Lorient à quel numéro
+<04> client
+     c: au 0 2 97 87
+<05> hotesse
+     h: 87
+<06> client
+     c: 29 XX
+<07> hotesse
+     h: d'accord
+<08> client
+     c: il n'a pas de numéro e n()
+<09> hotesse+client
+     h: je vais voir
+     c: à l'atelier
+<10> hotesse
+     h: je vais voir s'il est à l'atelier hein
+<11> client
+     c: et il y a pas de numéro à l'atelier là
+<12> hotesse
+     h: si si si je vais voir s'il y est je l'ai aperçu ce matin sur le parking mais maintenant je vais voir s'il est
+<13> client
+     c: d'accord merci
+<14> hotesse
+     h: # non ça ne répond pas
+<15> hotesse+client
+     h: je vais lui laisser un
+     c: et # et
+<16> client
+     c: ben écoutez je vais je vais noter son numéro parce que je l'ai pas sur l'annuaire là
+<17> hotesse
+     h: d'accord c'est le 0 1 27 XX
+<18> client
+     c: ben c'est c'est ce que j'ai 0 1 27 XX donc c'est c'est retourné au standard
+<19> hotesse+client
+     h: voilà
+     c: quoi
+<20> hotesse
+     h: exactement
+<21> client
+     c: d'accord donc ça c'est le numéro de l'atelier
+<22> hotesse
+     h: oui
+<23> hotesse+client
+     h: je vais
+     c: ok
+<24> hotesse
+     h: laisser un message su le de() portable s'il est ouvert
+<25> client
+     c: et qu'il qu'il
+<26> hotesse+client
+     h: voilà
+     c: m'appelle
+<27> client
+     c: avant avant onze heures et demie parce que après j'ai je serai pas là
+<28> hotesse
+     h: avant onze heures et demie
+<29> client
+     c: s'il peut
+<30> hotesse
+     h: d'accord
+<31> hotesse+client
+     h: c'est monsieur Nom2
+     c: très bien
+<32> client
+     c: c'est ça
+<33> hotesse
+     h: # très bien bon ben c'est noté
+<34> client
+     c: merci
+<35> hotesse
+     h: merci au revoir
+<36> client
+     c: au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: oui bonjour madame excusez moi de vous déranger e je voulais simplement vous demander e c'est p() e logiquement c'est pour les résultats de e maîtrise de droit
+<03> hotesse
+     h: les maîtrise de droit de re() droit j'ai rien pour le moment ma collègue m'a rien donné
+<04> client
+     c: ah d'accord
+<05> hotesse
+     h: non # non #
+<06> hotesse+client
+     h: et
+     c: bon
+<07> hotesse
+     h: faudrait appeler madame Nom dans le courant de la journée au 0 1 26 XX
+<08> client
+     c: oui oui oui
+<09> hotesse
+     h: là elle est pas dans son bureau hein
+<10> client
+     c: d'accord parce que là les résultat seront affichés à partir de quand
+<11> hotesse
+     h: ben justement je ne sais pas je vous dis
+<12> hotesse+client
+     h: ma
+     c: vous savez pas
+<13> hotesse
+     h: ma collègue m'a rien donné non elle m'a donné pour les licences mais pas pour les maîtrises
+<14> client
+     c: ah oui d'accord
+<15> hotesse
+     h: oui
+<16> client
+     c: oui # e oui ça peut être dans la journée même e vous savez pas
+<17> hotesse+client
+     h: aujourd'hui
+     c: non
+<18> client
+     c: oui non
+<19> hotesse
+     h: ah sûrement pas
+<20> hotesse+client
+     h: ah non
+     c: ah non
+<21> client
+     c: ah non je ne
+<22> hotesse+client
+     h: ah non elle m'aurait
+     c: non non
+<23> hotesse
+     h: donné depuis longtemps hein
+<24> client
+     c: ah oui d'accord
+<25> hotesse+client
+     h: ah oui
+     c: d'accord
+<26> hotesse
+     h: oui oui oui
+<27> hotesse+client
+     h: oui [pf] ah oui
+     c: d'accord oui oui oui
+<28> hotesse
+     h: non là j'ai rien donc c'est sûrement e sûrement pas e cette semaine hein
+<29> client
+     c: ah pas cette
+<30> hotesse+client
+     h: ah ben non
+     c: semaine
+<31> hotesse
+     h: je pense pas parce qu'elle m'a donné pour les licences
+<32> client
+     c: e
+<33> hotesse
+     h: et alors attendez pour les licences e qu'est-ce qu'il qu(e) je vous dise pas de bêtise c'est vendredi #
+<34> hotesse+client
+     h: donc e ça
+     c: donc oui
+<35> hotesse
+     h: peut pas être avant pour les e comment pour les maîtrises hein
+<36> client
+     c: parce que
+<37> hotesse+client
+     h: elle m'aurait donné
+     c: normalement
+<38> client
+     c: normalement c'était vendredi pour les maîtrises non
+<39> hotesse
+     h: je ne sais pas du tout non je vous dis
+<40> hotesse+client
+     h: moi
+     c: non
+<41> hotesse
+     h: elle m'a donné pour les licences vendredi
+<42> client
+     c: ah oui
+<43> hotesse
+     h: oui
+<44> client
+     c: e
+<45> hotesse
+     h: ouais mais bon vous l'appelez au 0 1 26 XX et puis elle vous dira hein
+<46> client
+     c: ah d'accord
+<47> hotesse
+     h: oui
+<48> client
+     c: oui oui
+<49> hotesse+client
+     h: voilà
+     c: bon
+<50> client
+     c: bien ben je vous remercie
+<51> hotesse+client
+     h: au revoir madame
+     c: allez au revoir
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+     c: e oui bonjour j'aurais souhaité avoir le secrétariat de du D U e carrière juridique s'il vous plait
+<03> hotesse
+     h: oui c'est vous êtes déjà en D U ou c'est pour avoir des renseignements
+<04> client
+     c: non c'est parce que nous avons transmis un dossier d'inscription une demande de dérogation pour rentrer en deuxième année
+<05> hotesse
+     h: oui
+<06> client
+     c: et je voulais savoir ben d'une part s'il était bien parvenu et
+<07> hotesse+client
+     h: d'accord
+     c: puis e
+<08> client
+     c: quand est-ce qu'on aurait la réponse et comment se passent e les inscriptions e enfin le paiement
+<09> hotesse+client
+     h: après d'accord
+     c: des inscriptions voilà oui
+<10> hotesse
+     h: inscription administrative oui
+<11> client
+     c: oui
+<12> hotesse
+     h: e # c'est pour vous madame
+<13> client
+     c: c'est pour ma fille
+<14> hotesse
+     h: vous me donnez son nom s'il vous plaît
+<15> client
+     c: Nom Prénom
+<16> hotesse
+     h: N O M
+<17> client
+     c: voilà oui oui
+<18> hotesse
+     h: Nom Prénom donc e dossier de dérogation pour entrer en deuxième année de D U
+<19> client
+     c: oui
+<20> hotesse
+     h: je vais vous passer ma collègue hein
+<21> client
+     c: merci
+<22> hotesse2
+     h: oui
+<23> hotesse
+     h: alors madame je suppose Nom appelle pour sa fille Nom Prénom qui aurait envoyé un dossier de dérogation pour entrer en deuxième année de D U [pf] elle voulait savoir e si tu avais bien reçu le dossier ce qu'il en était quand est-ce qu'elle aurait les réponses
+<24> hotesse2
+     h: d'accord je te remercie # ouais
+
+
+<01> hotesse
+     h: U B S bonjour
+<02> client
+
+
