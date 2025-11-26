@@ -1,26 +1,3 @@
 {
-    "sqltools.connections": [
-        {
-            "ssh": "Disabled",
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "askForPassword": true,
-            "driver": "PostgreSQL",
-            "name": "PostgresLocal",
-            "database": "postgres",
-            "username": "postgres"
-        },
-        {
-            "ssh": "Disabled",
-            "previewLimit": 50,
-            "server": "localhost",
-            "port": 5432,
-            "askForPassword": true,
-            "driver": "PostgreSQL",
-            "name": "RagChatbot",
-            "database": "rag_chatbot",
-            "username": "postgres"
-        }
-    ]
+    "sqltools.connections": []
 }
